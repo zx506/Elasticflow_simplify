@@ -1,0 +1,2 @@
+# Elasticflow_simplify
+这是Elasticflow方法的简化版本，试图使用Elasticflow中的任务调度以及拓扑算法，废除掉gpu动态scale up部分
